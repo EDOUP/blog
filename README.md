@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/EDOUP/EDOUP.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+[SpringBoot整合mybatis、shiro、redis实现基于数据库的细粒度动态权限管理系统实例](https://blog.csdn.net/poorcoder_/article/details/71374002?from=timeline#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
