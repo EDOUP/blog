@@ -14,6 +14,6 @@
 
 #### ThreadLocal
 
-- [ InheritableThreadLocal——父线程传递本地变量到子线程的解决方式及分析](https://blog.csdn.net/hewenbo111/article/details/80487252)
+- [InheritableThreadLocal——父线程传递本地变量到子线程的解决方式及分析](https://blog.csdn.net/hewenbo111/article/details/80487252)
 - [TransmittableThreadLocal详解](https://www.jianshu.com/p/e0774f965aa3)
 
