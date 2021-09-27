@@ -1,0 +1,2 @@
+- 用户管理命令 netplwiz
+- Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
